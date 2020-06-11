@@ -1,7 +1,7 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "e-commerce-orm",
   "version": "1.0.0",
-  "description": "",
+  "description": "![GitHub top language](https://img.shields.io/github/languages/top/deannpi/e-commerce-orm)\r ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/deannapi/e-commerce-orm)\r ![GitHub repo size](https://img.shields.io/github/repo-size/deannapi/e-commerce-orm)\r ![GitHub](https://img.shields.io/github/license/deannapi/e-commerce-orm)\r ![GitHub followers](https://img.shields.io/github/followers/deannapi?style=social)\r ![GitHub last commit](https://img.shields.io/github/last-commit/deannapi/e-commerce-orm)",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,15 +14,16 @@
     "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "DeAnna Martinez",
+  "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.3"
   },
   "dependencies": {
+    "bcrypt": "^5.0.0",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "mysql2": "^2.1.0",
-    "sequelize": "^5.21.7"
+    "sequelize": "^5.21.12"
   }
 }

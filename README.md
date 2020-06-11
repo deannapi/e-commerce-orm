@@ -41,6 +41,8 @@ This uses an Express.js API and configures it to use Sequelize to interact with 
 
 ## :memo: Instructions
 
+`npm install express sequelize mysql2`
+
 `npm install --save sequelize`
 
 `npm install dotenv`
