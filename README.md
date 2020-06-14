@@ -13,9 +13,7 @@ This uses an Express.js API and configures it to use Sequelize to interact with 
 * [MySQL2](https://www.npmjs.com/package/mysql2)
 * [Insomnia](https://insomnia.rest/)
 * [Sequelize](https://sequelize.org/)
-* [Heroku](https://www.heroku.com/home)
 * [Dotenv](https://www.npmjs.com/package/dotenv)
-* [BCrypt.js](https://www.npmjs.com/package/bcrypt)
 
 ## :bulb: Description
             AS A manager at an internet retail company
@@ -37,7 +35,7 @@ This uses an Express.js API and configures it to use Sequelize to interact with 
 
 
 ## :movie_camera: Demo
-
+![](ecommerce.gif)
 
 ## :memo: Instructions
 
