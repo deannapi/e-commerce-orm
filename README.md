@@ -48,3 +48,7 @@ This uses an Express.js API and configures it to use Sequelize to interact with 
 `npm install dotenv`
 
 `npm install bcrypt`
+
+To run the application, use the following command:
+
+`node index.js`
