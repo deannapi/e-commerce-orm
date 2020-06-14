@@ -8,14 +8,14 @@
 # E-Commerce (ORM)
 This uses an Express.js API and configures it to use Sequelize to interact with a MySQL database. 
 
-## :hammer: Tools
+## :hammer:   Tools
 * [Express.js](https://expressjs.com/)
 * [MySQL2](https://www.npmjs.com/package/mysql2)
 * [Insomnia](https://insomnia.rest/)
 * [Sequelize](https://sequelize.org/)
 * [Dotenv](https://www.npmjs.com/package/dotenv)
 
-## :bulb: Description
+## :bulb:   Description
             AS A manager at an internet retail company
             I WANT a back end for my e-commerce website that uses the latest technologies
             SO THAT my company can compete with other e-commerce companies
@@ -34,10 +34,10 @@ This uses an Express.js API and configures it to use Sequelize to interact with 
 
 
 
-## :movie_camera: Demo
+## :movie_camera:   Demo
 ![](ecommerce.gif)
 
-## :memo: Instructions
+## :memo:   Instructions
 
 `npm install express sequelize mysql2`
 
